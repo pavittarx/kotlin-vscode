@@ -18,8 +18,11 @@ If Keybindins are not set.
    3. Choose an option (Compile/Run/Compile+Run) from the list provided.
    
 If Keybindings are set
+
    F9 - Compile+Run Kotlin Code
+   
    F10 - Compile Kotlin Code
+   
    F11 - Run Kotlin Application Binary
    
    F12 - Lists the Available Tasks (same as Ctrl+Shift+B)
