@@ -30,5 +30,5 @@ If Keybindings are set
 2. A test file 'hello.kt' is compiled as of this moment, you can edit kotlin/compile.cmd & change it to your own file.
 3. The compilerun.cmd must be edited to match your kotlin  (.kt) file if you use Compile+Run
 
-##License: MIT
-##Authored by: pavittarx
+### License: MIT
+### Authored by: pavittarx
