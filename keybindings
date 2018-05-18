@@ -1,0 +1,22 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "f12",
+        "command": "workbench.action.tasks.runTask"
+    },
+    {
+        "key": "f9",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Kotlin Compile & Run"
+    },
+    {
+        "key": "f10",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Kotlin Compile"
+    },
+    {
+        "key": "f11",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Kotlin Run"
+    }
+]
